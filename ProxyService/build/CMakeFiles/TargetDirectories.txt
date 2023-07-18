@@ -1,0 +1,8 @@
+/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/CMakeFiles/edit_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/CMakeFiles/rebuild_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src/CMakeFiles/ProxyService.dir
+/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src/CMakeFiles/edit_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src/CMakeFiles/rebuild_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/example/CMakeFiles/test.dir
+/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/example/CMakeFiles/edit_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/example/CMakeFiles/rebuild_cache.dir

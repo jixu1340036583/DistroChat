@@ -1,0 +1,48 @@
+syntax = "proto3";
+
+package offlinemsgProto;
+option cc_generic_services = true;
+
+message WriteOfflineRequest
+{
+    int32 friendid = 1;
+    bytes msg = 2;
+}
+
+message WriteOfflineReponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+
+message ReadOfflineRequest
+{
+    int32 userid = 1;
+}
+
+message ReadOfflineResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+    repeated bytes msg = 3;
+}
+
+message DelOfflineRequest
+{
+    int32 userid = 1;
+}
+
+message DelOfflineResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+
+service OfflineServiceRpc
+{
+    rpc WriteOffline(WriteOfflineRequest) returns(WriteOfflineReponse);
+    rpc ReadOffline(ReadOfflineRequest) returns(ReadOfflineResponse);
+    rpc DelOffline(ReadOfflineRequest) returns(DelOfflineResponse);
+}

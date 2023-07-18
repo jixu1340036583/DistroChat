@@ -1,0 +1,73 @@
+syntax = "proto3";
+
+package friendProto;
+option cc_generic_services = true;
+
+enum STATE{
+    ONLINE = 0;
+    OFFLINE = 1;
+}
+
+message User
+{
+    int32 id = 1;
+    bytes name = 2;
+    bytes password = 3;
+    STATE state = 4;
+}
+
+message UserInfoRequest
+{
+    int32 userid = 1;
+}
+
+message UserInfoResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+    User userInfo = 3;
+}
+
+message FriendListRequest
+{
+    int32 userid = 1;
+}
+
+message FriendListResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+    repeated User friendList = 3;
+}
+
+message AddFriendRequest
+{
+    int32 userid = 1;
+    int32 friendid = 2;
+}
+
+message AddFriendResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+message DelFriendRequest
+{
+    int32 userid = 1;
+    int32 friendid = 2;
+}
+
+message DelFriendResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+service FriendServiceRpc{
+    rpc GetUserInfo(UserInfoRequest) returns(UserInfoResponse);
+    rpc AddFriend(AddFriendRequest) returns(AddFriendResponse);
+    rpc DeleteFriend(DelFriendRequest) returns(DelFriendResponse);
+    rpc GetFriendList(FriendListRequest) returns(FriendListResponse);
+}
+

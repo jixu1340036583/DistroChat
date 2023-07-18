@@ -1,0 +1,62 @@
+[
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/proxyserver.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proxyserver.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proxyserver.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/proxyservice.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proxyservice.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proxyservice.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/run.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/run.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/run.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/proto/friendService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/friendService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/friendService.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/proto/groupService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/groupService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/groupService.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/proto/offlinemsgService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/offlinemsgService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/offlinemsgService.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/proto/proxyserver.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/proxyserver.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/proxyserver.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/proto/userService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/userService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/userService.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/ProxyService.dir/redis/redis.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/redis/redis.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/redis/redis.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/test.dir/test.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/example/test.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/example/test.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/test.dir/__/src/proto/userService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/userService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/userService.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/reactorx -I/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/include/redis -g -g -o CMakeFiles/test.dir/__/src/proto/proxyserver.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/proxyserver.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/src/proto/proxyserver.pb.cc"
+}
+]

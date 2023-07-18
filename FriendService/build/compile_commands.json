@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/reactorX -g -g -o CMakeFiles/FriendService.dir/Logger.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/Logger.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/Logger.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/reactorX -g -g -o CMakeFiles/FriendService.dir/friendService.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/friendService.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/friendService.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/reactorX -g -g -o CMakeFiles/FriendService.dir/run.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/run.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/run.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/reactorX -g -g -o CMakeFiles/FriendService.dir/proto/friendService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/proto/friendService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/proto/friendService.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/reactorX -g -g -o CMakeFiles/FriendService.dir/model/friendmodel.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/model/friendmodel.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/reactorX -g -g -o CMakeFiles/FriendService.dir/model/uesrmodel.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/model/uesrmodel.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/model/uesrmodel.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/reactorX -g -g -o CMakeFiles/caller.dir/caller.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/FriendService/example/caller.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/example/caller.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/FriendService/include/reactorX -g -g -o CMakeFiles/caller.dir/__/src/proto/friendService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/proto/friendService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/FriendService/src/proto/friendService.pb.cc"
+}
+]

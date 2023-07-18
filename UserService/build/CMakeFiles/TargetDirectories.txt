@@ -1,0 +1,8 @@
+/home/jixu/Mycode/ShiLei/DistroChat/UserService/build/CMakeFiles/edit_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/UserService/build/CMakeFiles/rebuild_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/UserService/build/src/CMakeFiles/UserService.dir
+/home/jixu/Mycode/ShiLei/DistroChat/UserService/build/src/CMakeFiles/edit_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/UserService/build/src/CMakeFiles/rebuild_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/UserService/build/example/CMakeFiles/caller.dir
+/home/jixu/Mycode/ShiLei/DistroChat/UserService/build/example/CMakeFiles/edit_cache.dir
+/home/jixu/Mycode/ShiLei/DistroChat/UserService/build/example/CMakeFiles/rebuild_cache.dir

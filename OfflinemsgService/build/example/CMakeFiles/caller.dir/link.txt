@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -rdynamic CMakeFiles/caller.dir/caller.cpp.o CMakeFiles/caller.dir/__/src/proto/offlinemsgService.pb.cc.o -o ../../bin/caller   -L/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/lib  -Wl,-rpath,/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/lib -lmprpc -lReactorX -lThreadPool -lpthread -lprotobuf 

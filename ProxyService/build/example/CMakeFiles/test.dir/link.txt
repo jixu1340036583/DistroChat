@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -g -rdynamic CMakeFiles/test.dir/test.cpp.o CMakeFiles/test.dir/__/src/proto/userService.pb.cc.o CMakeFiles/test.dir/__/src/proto/proxyserver.pb.cc.o -o ../../bin/test   -L/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/lib  -Wl,-rpath,/home/jixu/Mycode/ShiLei/DistroChat/ProxyService/lib -lmprpc -lReactorX -lThreadPool -lpthread -lprotobuf 

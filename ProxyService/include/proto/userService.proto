@@ -1,0 +1,82 @@
+syntax = "proto3";
+
+package usProto;
+option cc_generic_services = true;
+
+enum ROLE{
+    CREATOR = 0;
+    NORMAL = 1;
+}
+
+enum STATE{
+    ONLINE = 0;
+    OFFLINE = 1;
+}
+
+message User{
+    int32 id = 1;
+    bytes name = 2;
+    bytes password = 3;
+    STATE state = 4;
+}
+
+message GroupUser
+{
+    int32 id = 1;
+    bytes name = 2;
+    bytes password = 3;
+    STATE state = 4;
+    ROLE role = 5;
+}
+
+message Group{
+    int32 groupid = 1;
+    bytes name = 2;
+    bytes desc = 3;
+    repeated GroupUser users = 4;
+}
+
+message RegRequest
+{
+    bytes name = 1;
+    bytes password = 2;
+}
+
+message RegResponse{
+    int32 userid = 1;
+    int32 errcode= 2;
+    bytes errmsg = 3;
+}
+
+// 登录请求
+message LoginRequest
+{
+    int32 userid = 1;
+    bytes password = 2;
+}
+
+message LoginResponse{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+    repeated User friends = 3;
+    repeated Group groups = 4;
+    repeated bytes offlineMsg = 5;
+}
+
+
+// 下线请求
+message LogoutRequest
+{
+    int32 userid = 1;
+}
+message LogoutResponse{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+service UserServiceRpc{
+    rpc Register(RegRequest) returns(RegResponse);
+    rpc Login(LoginRequest) returns(LoginResponse);
+    rpc Logout(LogoutRequest) returns(LogoutResponse);
+}
+

@@ -1,0 +1,39 @@
+syntax = "proto3";
+
+package proxyProto;
+
+message ProxyRequest
+{
+    int32 type = 1;
+    bytes msg = 2;
+}
+
+message ProxyResponse
+{
+    int32 type = 1;
+    int32 errcode = 2;
+    bytes errmsg = 3;
+    bytes msg = 4;
+}
+
+message ChatRequest{
+    int32 fromid = 1;
+    int32 toid = 2;
+    bytes msg = 3;
+}
+
+message ChatResponse{
+    int32 errcode = 2;
+    bytes errmsg = 3;
+}
+
+message ChatGroupequest{
+    int32 fromid = 1;
+    int32 groupid = 2;
+    bytes msg = 3;
+}
+
+message ChatGroupResponse{
+    int32 errcode = 2;
+    bytes errmsg = 3;
+}

@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/reactorX -g -g -o CMakeFiles/GroupService.dir/Logger.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/Logger.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/Logger.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/reactorX -g -g -o CMakeFiles/GroupService.dir/groupService.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/groupService.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/groupService.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/reactorX -g -g -o CMakeFiles/GroupService.dir/run.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/run.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/run.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/reactorX -g -g -o CMakeFiles/GroupService.dir/proto/groupService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/proto/groupService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/proto/groupService.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/reactorX -g -g -o CMakeFiles/GroupService.dir/model/groupmodel.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/model/groupmodel.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/reactorX -g -g -o CMakeFiles/caller.dir/caller.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/GroupService/example/caller.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/example/caller.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/redis -I/home/jixu/Mycode/ShiLei/DistroChat/GroupService/include/reactorX -g -g -o CMakeFiles/caller.dir/__/src/proto/groupService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/proto/groupService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/GroupService/src/proto/groupService.pb.cc"
+}
+]

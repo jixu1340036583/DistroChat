@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/reactorX -g -g -o CMakeFiles/OfflinemsgService.dir/Logger.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/Logger.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/Logger.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/reactorX -g -g -o CMakeFiles/OfflinemsgService.dir/offlinemsgService.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/offlinemsgService.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/offlinemsgService.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/reactorX -g -g -o CMakeFiles/OfflinemsgService.dir/run.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/run.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/run.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/reactorX -g -g -o CMakeFiles/OfflinemsgService.dir/proto/offlinemsgService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/proto/offlinemsgService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/proto/offlinemsgService.pb.cc"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/build/src",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/reactorX -g -g -o CMakeFiles/OfflinemsgService.dir/model/offlinemessagemodel.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/model/offlinemessagemodel.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/model/offlinemessagemodel.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/reactorX -g -g -o CMakeFiles/caller.dir/caller.cpp.o -c /home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/example/caller.cpp",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/example/caller.cpp"
+},
+{
+  "directory": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/build/example",
+  "command": "/usr/bin/g++  -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/mprpc -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/proto -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/model -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/connectionpool -I/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/include/reactorX -g -g -o CMakeFiles/caller.dir/__/src/proto/offlinemsgService.pb.cc.o -c /home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/proto/offlinemsgService.pb.cc",
+  "file": "/home/jixu/Mycode/ShiLei/DistroChat/OfflinemsgService/src/proto/offlinemsgService.pb.cc"
+}
+]

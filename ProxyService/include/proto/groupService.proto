@@ -1,0 +1,100 @@
+syntax = "proto3";
+
+package groupProto;
+option cc_generic_services = true;
+
+
+enum ROLE{
+    CREATOR = 0;
+    NORMAL = 1;
+}
+enum STATE{
+    ONLINE = 0;
+    OFFLINE = 1;
+}
+
+message CreateGroupRequest
+{
+    int32 userid = 1;
+    bytes group_name = 2;
+    bytes group_desc = 3;
+}
+
+message CreateGroupResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+    int32 groupid = 3;
+}
+
+message JoinGroupRequest
+{
+    int32 userid = 1;
+    int32 groupid = 2;
+    ROLE role = 3;
+}
+
+message JoinGroupResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+message QuitGroupRequest
+{
+    int32 userid = 1;
+    int32 groupid = 2;
+}
+
+message QuitGroupResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+}
+
+message GroupUser
+{
+    int32 id = 1;
+    bytes name = 2;
+    bytes password = 3;
+    STATE state = 4;
+    ROLE role = 5;
+}
+
+message Group{
+    int32 groupid = 1;
+    bytes name = 2;
+    bytes desc = 3;
+    repeated GroupUser users = 4;
+}
+
+message QueryGroupsRequest{
+    int32 userid = 1;
+}
+
+message QueryGroupsResponse
+{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+    repeated Group groups = 3;
+}
+
+message QueryGroupUsersRequest{
+    int32 userid = 1;
+    int32 groupid = 2;
+}
+
+message QueryGroupUsersResponse{
+    int32 errcode = 1;
+    bytes errmsg = 2;
+    repeated int32 useridVec = 3;
+}
+
+service GroupServiceRpc
+{
+    rpc CreateGroup (CreateGroupRequest) returns (CreateGroupResponse);
+    rpc JoinGroup (JoinGroupRequest) returns (JoinGroupResponse);
+    rpc QuitGroup (QuitGroupRequest) returns (QuitGroupResponse);
+    rpc QueryGroups (QueryGroupsRequest) returns (QueryGroupsResponse);
+    rpc QueryGroupUsers(QueryGroupUsersRequest) returns (QueryGroupUsersResponse);
+}
