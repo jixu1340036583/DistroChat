@@ -23,13 +23,13 @@
 + 基于Redis的发布-订阅功能，实现跨服务器的消息转发。
 
 ## 前置模块讲解
-网络库：[reactorX](https://gitee.com/jixu1340036583/reactorx)
+网络库：[reactorX](https://github.com/jixu1340036583/reactorX)
 
-线程池：[ThreadPool](https://gitee.com/jixu1340036583/threadpool)
+线程池：[ThreadPool](https://github.com/jixu1340036583/ThreadPool)
 
-连接池：[ConnectionPool](https://gitee.com/jixu1340036583/connection-pool)
+连接池：[ConnectionPool](https://github.com/jixu1340036583/ConnectionPool)
 
-rpc框架：[mprpc](https://gitee.com/jixu1340036583/mprpc)
+rpc框架：[mprpc](https://github.com/jixu1340036583/mprpc)
 
 
 ## 架构设计
